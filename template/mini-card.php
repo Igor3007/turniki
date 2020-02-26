@@ -50,7 +50,7 @@
 
                 <!--card-footer-->
                 <div class="t-store__card__btns-wrapper">
-                    <a href="/card.php" class="js-store-prod-btn t-store__card__btn t-btn t-btn_sm">Подробнее</a>
+                    <a href="javascript:;" data-fancybox data-type="ajax" data-src="/card.php" class="js-store-prod-btn t-store__card__btn t-btn t-btn_sm">Подробнее</a>
                     <a href="#order" class="js-store-prod-btn2 t-store__card__btn t-store__card__btn_second t-btn t-btn_sm" >Купить</a>
                 </div>
                 <!--/card-footer-->

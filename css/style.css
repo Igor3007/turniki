@@ -152,3 +152,77 @@
 .t-gray-container > .t-store__card > .t-store__card__wrap_all{
   background-color: #f0f4f7 ;
 }
+
+.t-slds__main img{
+  max-width: 100%
+}
+
+.js-store-product.js-product {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.t-store__relevants-grid-cont.js-store-relevants-grid-cont.t-store__grid-cont_mobile-one-row{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.t-store__relevants-grid-cont.js-store-relevants-grid-cont.t-store__grid-cont_mobile-one-row > .js-product .t-store__card__wrap_all.t-store__card__wrap_pad-sm {
+  box-shadow: none;
+  text-decoration: none;
+}
+
+.store__card__wrap_txt-and-opts a{
+  text-decoration: none
+}
+
+.store__card__wrap_txt-and-opts{
+  margin-bottom: 30px
+}
+
+.t-store__prod-popup__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  box-sizing: content-box;
+}
+
+.good-slider_thumb {
+  display: flex;
+}
+
+.good-slider_thumb .item-slide{
+  max-width: 100px;
+  border: 2px solid transparent;
+  margin-right: 5px
+}
+
+.good-slider_thumb .owl-item.active.current .item-slide {
+  max-width: 100px;
+  border: 2px solid #ccc;
+  margin-right: 5px
+}
+
+.good-slider_thumb .item-slide img {
+  max-width: 100%
+}
+
+.good-slider .owl-nav button span{
+  background: #fff;
+  border-radius: 50%;
+}
+
+.good-slider .owl-nav button:hover span{
+  background: #eee;
+  border-radius: 50%;
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+ background:transparent;
+ color:#FFF;
+ text-decoration:none
+}
+
+.fancybox-button.fancybox-close-small{
+  width: 60px;
+  height: 60px;
+}
