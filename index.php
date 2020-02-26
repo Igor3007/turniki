@@ -16,7 +16,7 @@
     <meta property="og:title" content="Турники.укр - Надежные турники для дома и офиса" />
     <meta property="og:description" content="Турники для дома и офиса , высокого качества по доступной цене от производителя" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://static.tildacdn.com/tild3331-3536-4162-a232-363264313734/--.jpg" />
+    <meta property="og:image" content="img/home/--.jpg" />
 
     <!--/metatextblock-->
 
@@ -24,18 +24,7 @@
 
     <meta name="format-detection" content="telephone=no" />
     <meta http-equiv="x-dns-prefetch-control" content="on">
-    <link rel="dns-prefetch" href="https://tilda.ws">
-    <link rel="dns-prefetch" href="https://static.tildacdn.com">
 
-
-
-    <link rel="shortcut icon" href="https://static.tildacdn.com/tild3563-6435-4362-a362-613539376162/favicon.ico" type="image/x-icon" />
-
-
-    <link rel="apple-touch-icon" href="https://static.tildacdn.com/tild3464-3866-4563-b534-336631643265/favicon.ico">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://static.tildacdn.com/tild3464-3866-4563-b534-336631643265/favicon.ico">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://static.tildacdn.com/tild3464-3866-4563-b534-336631643265/favicon.ico">
-    <link rel="apple-touch-startup-image" href="https://static.tildacdn.com/tild3464-3866-4563-b534-336631643265/favicon.ico">
 
     <link rel="stylesheet" href="/css/css_tilda-grid-3.0.min.css" type="text/css" media="all" />
     <link rel="stylesheet" href="/css/tilda-blocks-2.12.css" type="text/css" media="all" />
@@ -94,7 +83,7 @@
 
                     <div class="t228__leftside">
                         <div class="t228__leftcontainer">
-                            <a href="/" style="color:#ffffff;"><img src="https://static.tildacdn.com/tild3064-6135-4365-b932-333136393766/Logo.svg" class="t228__imglogo " imgfield="img" alt="    ТУРНИКИ.   укр   Надежные турники для дома   "></a> </div>
+                            <a href="/" style="color:#ffffff;"><img src="/img/icons/Logo.svg" class="t228__imglogo " imgfield="img" alt="    ТУРНИКИ.   укр   Надежные турники для дома   "></a> </div>
                     </div>
 
                     <div class="t228__centerside t228__menualign_left">
@@ -202,7 +191,7 @@
                     <div class="t280__container__bg" style="background-color: rgba(0,0,0,0.90); " data-bgcolor-hex="#000000" data-bgcolor-rgba="rgba(0,0,0,0.90)" data-navmarker="nav94909427marker" data-appearoffset="" data-bgopacity="0.90" data-menu-shadow="0px 1px 3px rgba(0,0,0,0.)"></div>
                     <div class="t280__menu__content ">
                         <div class="t280__logo__container" style="height:50px;">
-                            <div class="t280__logo__content"><a class="t280__logo" href="/" style="color:#ffffff;"><img src="https://static.tildacdn.com/tild3064-6135-4365-b932-333136393766/Logo.svg" style="height: 40px;" class="t280__logo__img" imgfield="img" alt="    ТУРНИКИ.   укр   Надежные турники для дома   "></a></div>
+                            <div class="t280__logo__content"><a class="t280__logo" href="/" style="color:#ffffff;"><img src="/img/icons/Logo.svg" style="height: 40px;" class="t280__logo__img" imgfield="img" alt="    ТУРНИКИ.   укр   Надежные турники для дома   "></a></div>
                             <div class="t280__burger">
                                 <span style="background-color:#fffcfc;"></span>
                                 <span style="background-color:#fffcfc;"></span>
@@ -424,7 +413,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6334-6335-4465-b164-663339323634/pipe.svg' imgfield='tn_img_1553171811973'>
+                            <img class='tn-atom__img' src='/img/icons/pipe.svg' imgfield='tn_img_1553171811973'>
                         </div>
 
 
@@ -488,7 +477,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3735-3661-4132-a364-383033313263/list.svg' imgfield='tn_img_1553171912139'>
+                            <img class='tn-atom__img' src='/img/icons/list.svg' imgfield='tn_img_1553171912139'>
                         </div>
 
 
@@ -552,7 +541,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6638-6264-4337-b835-623166393539/delivery-truck.svg' imgfield='tn_img_1553171925421'>
+                            <img class='tn-atom__img' src='/img/icons/delivery-truck.svg' imgfield='tn_img_1553171925421'>
                         </div>
 
 
@@ -577,7 +566,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild3633-6434-4034-a265-363831323139/1-screen-2_2.jpg');">
+                        <div class='tn-atom' style="background-image:url('img/home/1-screen-2_2.jpg');">
                         </div>
 
 
@@ -881,7 +870,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild3039-3162-4964-a137-333163363237/72.png');">
+                        <div class='tn-atom' style="background-image:url('/img/home/72.png');">
                         </div>
 
 
@@ -917,7 +906,7 @@
 
 
                     <div class='t396__elem tn-elem tn-elem__1543967381578910700831' data-elem-id='1578910700831' data-elem-type='shape' data-field-top-value="50" data-field-top-res-960-value="50" data-field-top-res-640-value="50" data-field-top-res-480-value="30" data-field-top-res-320-value="10" data-field-left-value="320" data-field-left-res-960-value="250" data-field-left-res-640-value="330" data-field-left-res-480-value="250" data-field-left-res-320-value="170" data-field-height-value="220" data-field-height-res-960-value="180" data-field-height-res-640-value="233" data-field-height-res-480-value="160" data-field-height-res-320-value="120" data-field-width-value="260" data-field-width-res-960-value="220" data-field-width-res-640-value="300" data-field-width-res-480-value="220" data-field-width-res-320-value="140" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="">
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild6662-6138-4639-b433-623338353639/7.png');"> </div>
+                        <div class='tn-atom' style="background-image:url('/img/home/7.png');"> </div>
                     </div>
 
 
@@ -942,7 +931,7 @@
 
 
                     <div class='t396__elem tn-elem tn-elem__1543967381578910720282' data-elem-id='1578910720282' data-elem-type='shape' data-field-top-value="50" data-field-top-res-960-value="50" data-field-top-res-640-value="554" data-field-top-res-480-value="460" data-field-top-res-320-value="287" data-field-left-value="620" data-field-left-res-960-value="490" data-field-left-res-640-value="10" data-field-left-res-480-value="10" data-field-left-res-320-value="10" data-field-height-value="220" data-field-height-res-960-value="180" data-field-height-res-640-value="233" data-field-height-res-480-value="184" data-field-height-res-320-value="120" data-field-width-value="260" data-field-width-res-960-value="220" data-field-width-res-640-value="300" data-field-width-res-480-value="220" data-field-width-res-320-value="140" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="">
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild3438-6434-4836-a332-363963326335/2030-top-site.jpg');">
+                        <div class='tn-atom' style="background-image:url('img/home/2030-top-site.jpg');">
                         </div>
                     </div>
 
@@ -968,7 +957,7 @@
 
 
                     <div class='t396__elem tn-elem tn-elem__1543967381578910720328' data-elem-id='1578910720328' data-elem-type='shape' data-field-top-value="50" data-field-top-res-960-value="50" data-field-top-res-640-value="554" data-field-top-res-480-value="460" data-field-top-res-320-value="287" data-field-left-value="920" data-field-left-res-960-value="730" data-field-left-res-640-value="330" data-field-left-res-480-value="250" data-field-left-res-320-value="170" data-field-height-value="220" data-field-height-res-960-value="180" data-field-height-res-640-value="233" data-field-height-res-480-value="184" data-field-height-res-320-value="120" data-field-width-value="260" data-field-width-res-960-value="220" data-field-width-res-640-value="300" data-field-width-res-480-value="220" data-field-width-res-320-value="140" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="">
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild3161-3037-4562-a639-373038653432/box-top.jpg');">
+                        <div class='tn-atom' style="background-image:url('img/home/box-top.jpg');">
                         </div>
                     </div>
 
@@ -1237,7 +1226,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3635-3066-4630-b838-653633376562/messenger.svg' imgfield='tn_img_1553251521317'>
+                            <img class='tn-atom__img' src='/img/icons/messenger.svg' imgfield='tn_img_1553251521317'>
                         </div>
 
 
@@ -1262,7 +1251,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild3438-3065-4639-a266-336335333066/Man-1.jpg');">
+                        <div class='tn-atom' style="background-image:url('/img/home/Man-1.jpg');">
                         </div>
 
 
@@ -1665,7 +1654,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3635-3066-4630-b838-653633376562/messenger.svg' imgfield='tn_img_1553251521317'>
+                            <img class='tn-atom__img' src='/img/icons/messenger.svg' imgfield='tn_img_1553251521317'>
                         </div>
 
 
@@ -1690,7 +1679,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild3566-3039-4639-a461-356338656233/Man-2.jpg');">
+                        <div class='tn-atom' style="background-image:url('img/home/Man-2.jpg');">
                         </div>
 
 
@@ -2129,7 +2118,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild3463-6362-4930-b537-386637336237/3-.png');">
+                        <div class='tn-atom' style="background-image:url('/img/home/3-.png');">
                         </div>
 
 
@@ -2508,7 +2497,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild6532-3931-4661-b866-336339323164/Man-3.jpg');">
+                        <div class='tn-atom' style="background-image:url('img/home/Man-3.jpg');">
                         </div>
 
 
@@ -2532,7 +2521,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3065-3431-4061-a264-396362623837/bublle.svg' imgfield='tn_img_1553271728523'>
+                            <img class='tn-atom__img' src='/img/icons/bublle.svg' imgfield='tn_img_1553271728523'>
                         </div>
 
 
@@ -2556,7 +2545,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6536-3734-4233-b038-383831333835/quotes.svg' imgfield='tn_img_1553272015345'>
+                            <img class='tn-atom__img' src='/img/icons/quotes.svg' imgfield='tn_img_1553272015345'>
                         </div>
 
 
@@ -2600,7 +2589,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3065-3431-4061-a264-396362623837/bublle.svg' imgfield='tn_img_1553272179214'>
+                            <img class='tn-atom__img' src='/img/icons/bublle.svg' imgfield='tn_img_1553272179214'>
                         </div>
 
 
@@ -2624,7 +2613,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6536-3734-4233-b038-383831333835/quotes.svg' imgfield='tn_img_1553272179233'>
+                            <img class='tn-atom__img' src='/img/icons/quotes.svg' imgfield='tn_img_1553272179233'>
                         </div>
 
 
@@ -2668,7 +2657,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3065-3431-4061-a264-396362623837/bublle.svg' imgfield='tn_img_1553272203628'>
+                            <img class='tn-atom__img' src='img/icons/bublle.svg' imgfield='tn_img_1553272203628'>
                         </div>
 
 
@@ -2692,7 +2681,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6536-3734-4233-b038-383831333835/quotes.svg' imgfield='tn_img_1553272203653'>
+                            <img class='tn-atom__img' src='/img/icons/quotes.svg' imgfield='tn_img_1553272203653'>
                         </div>
 
 
@@ -2736,7 +2725,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3065-3431-4061-a264-396362623837/bublle.svg' imgfield='tn_img_1553272203677'>
+                            <img class='tn-atom__img' src='img/icons/bublle.svg' imgfield='tn_img_1553272203677'>
                         </div>
 
 
@@ -2760,7 +2749,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6536-3734-4233-b038-383831333835/quotes.svg' imgfield='tn_img_1553272203686'>
+                            <img class='tn-atom__img' src='/img/icons/quotes.svg' imgfield='tn_img_1553272203686'>
                         </div>
 
 
@@ -2804,7 +2793,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3065-3431-4061-a264-396362623837/bublle.svg' imgfield='tn_img_1553272221815'>
+                            <img class='tn-atom__img' src='img/icons/bublle.svg' imgfield='tn_img_1553272221815'>
                         </div>
 
 
@@ -2828,7 +2817,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6536-3734-4233-b038-383831333835/quotes.svg' imgfield='tn_img_1553272221856'>
+                            <img class='tn-atom__img' src='/img/icons/quotes.svg' imgfield='tn_img_1553272221856'>
                         </div>
 
 
@@ -2872,7 +2861,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3065-3431-4061-a264-396362623837/bublle.svg' imgfield='tn_img_1553272221888'>
+                            <img class='tn-atom__img' src='img/icons/bublle.svg' imgfield='tn_img_1553272221888'>
                         </div>
 
 
@@ -2896,7 +2885,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6536-3734-4233-b038-383831333835/quotes.svg' imgfield='tn_img_1553272221902'>
+                            <img class='tn-atom__img' src='/img/icons/quotes.svg' imgfield='tn_img_1553272221902'>
                         </div>
 
 
@@ -2940,7 +2929,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3065-3431-4061-a264-396362623837/bublle.svg' imgfield='tn_img_1553272233911'>
+                            <img class='tn-atom__img' src='img/icons/bublle.svg' imgfield='tn_img_1553272233911'>
                         </div>
 
 
@@ -2964,7 +2953,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6536-3734-4233-b038-383831333835/quotes.svg' imgfield='tn_img_1553272233934'>
+                            <img class='tn-atom__img' src='/img/icons/quotes.svg' imgfield='tn_img_1553272233934'>
                         </div>
 
 
@@ -3115,7 +3104,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild3963-6334-4434-b765-313539383438/1266_osnova_brovary.jpg');">
+                        <div class='tn-atom' style="background-image:url('img/home/1266_osnova_brovary.jpg');">
                         </div>
 
 
@@ -3140,8 +3129,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild6332-3564-4264-b336-363336386533/photo.jpg');">
-                        </div>
+                        <div class='tn-atom' style="background-image:url('img/home/photo.jpg');"></div>
 
 
 
@@ -3440,7 +3428,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1499960678558" data-original="https://static.tildacdn.com/tild3362-3933-4532-b838-363661313161/-1.jpg" style="background-image:url('https://static.tildacdn.com/tild3362-3933-4532-b838-363661313161/-1.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1499960678558" data-original="/img/home/1.jpg" style="background-image:url('/img/home/1.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3453,7 +3441,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1495010946049" data-original="https://static.tildacdn.com/tild3033-3334-4236-a338-353264656663/-2.jpg" style="background-image:url('https://static.tildacdn.com/tild3033-3334-4236-a338-353264656663/-2.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1495010946049" data-original="/img/home/2.jpg" style="background-image:url('/img/home/2.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3466,7 +3454,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1495010928665" data-original="https://static.tildacdn.com/tild6631-3663-4161-a135-346130333938/-3.jpg" style="background-image:url('https://static.tildacdn.com/tild6631-3663-4161-a135-346130333938/-3.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1495010928665" data-original="/img/home/3.jpg" style="background-image:url('img/home/3.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3480,7 +3468,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277020113" data-original="https://static.tildacdn.com/tild3562-3634-4733-b335-616534346366/29daef7f-ffbd-498a-a.jpg" style="background-image:url('https://static.tildacdn.com/tild3562-3634-4733-b335-616534346366/29daef7f-ffbd-498a-a.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277020113" data-original="img/home/4.jpg" style="background-image:url('img/home/4.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3493,7 +3481,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277021663" data-original="https://static.tildacdn.com/tild3766-3139-4363-a464-373530303937/-5.jpg" style="background-image:url('https://static.tildacdn.com/tild3766-3139-4363-a464-373530303937/-5.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277021663" data-original="img/home/5.jpg" style="background-image:url('img/home/5.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3506,7 +3494,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277023819" data-original="https://static.tildacdn.com/tild6335-6532-4834-a136-653533663232/-6.jpg" style="background-image:url('https://static.tildacdn.com/tild6335-6532-4834-a136-653533663232/-6.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277023819" data-original="img/home/6.jpg" style="background-image:url('img/home/6.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3520,7 +3508,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277048045" data-original="https://static.tildacdn.com/tild3537-3233-4832-a461-633461396539/-7.jpg" style="background-image:url('https://static.tildacdn.com/tild3537-3233-4832-a461-633461396539/-7.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277048045" data-original="img/home/7.jpg" style="background-image:url('img/home/7.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3533,7 +3521,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277049486" data-original="https://static.tildacdn.com/tild3339-3034-4730-b234-303734343935/-8.jpg" style="background-image:url('https://static.tildacdn.com/tild3339-3034-4730-b234-303734343935/-8.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277049486" data-original="img/home/8.jpg" style="background-image:url('img/home/8.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3546,7 +3534,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277051675" data-original="https://static.tildacdn.com/tild3263-3663-4431-a131-383639333538/-9.jpg" style="background-image:url('https://static.tildacdn.com/tild3263-3663-4431-a131-383639333538/-9.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277051675" data-original="img/home/9.jpg" style="background-image:url('img/home/9.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3560,7 +3548,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277054183" data-original="https://static.tildacdn.com/tild3763-3163-4237-a530-633831333033/-10.jpg" style="background-image:url('https://static.tildacdn.com/tild3763-3163-4237-a530-633831333033/-10.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277054183" data-original="img/home/10.jpg" style="background-image:url('img/home/10.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3573,7 +3561,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277055746" data-original="https://static.tildacdn.com/tild3039-6238-4131-b739-616566313230/-11.jpg" style="background-image:url('https://static.tildacdn.com/tild3039-6238-4131-b739-616566313230/-11.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277055746" data-original="img/home/11.jpg" style="background-image:url('img/home/11.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3586,7 +3574,7 @@
                     <div class="t774__col t-col t-col_4 t-align_left t-item t774__col_mobile-grid">
                         <div class="t774__wrapper" style="background-color: #f0f4f7;">
                             <div class="t774__imgwrapper" style="padding-bottom:63.888888888889%;">
-                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277056267" data-original="https://static.tildacdn.com/tild3230-6233-4534-b664-343234303633/-12.jpg" style="background-image:url('https://static.tildacdn.com/tild3230-6233-4534-b664-343234303633/-12.jpg');"></div>
+                                <div class="t774__bgimg  t-bgimg" bgimgfield="li_img__1553277056267" data-original="img/home/12.jpg" style="background-image:url('img/home/12.jpg');"></div>
                             </div>
                             <div class="t774__content">
                                 <div class="t774__textwrapper ">
@@ -3702,7 +3690,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild6165-3534-4134-a137-393364333338/3033-1.jpg" bgimgfield="li_img__1476964887394" style="background-image: url('https://static.tildacdn.com/tild6165-3534-4134-a137-393364333338/3033-1.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/3033-1.jpg" bgimgfield="li_img__1476964887394" style="background-image: url('img/home/3033-1.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -3725,7 +3713,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild3938-6431-4463-b632-313931623531/52598172_11138327054.jpg" bgimgfield="li_img__1553583856066" style="background-image: url('https://static.tildacdn.com/tild3938-6431-4463-b632-313931623531/52598172_11138327054.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/52598172_11138327054.jpg" bgimgfield="li_img__1553583856066" style="background-image: url('img/home/52598172_11138327054.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -3748,7 +3736,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild6430-3236-4136-a234-633730313530/42325043_51285178247.jpg" bgimgfield="li_img__1477576758810" style="background-image: url('https://static.tildacdn.com/tild6430-3236-4136-a234-633730313530/42325043_51285178247.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/42325043_51285178247.jpg" bgimgfield="li_img__1477576758810" style="background-image: url('img/home/42325043_51285178247.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -3771,7 +3759,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild6630-3832-4630-b732-393139323138/52387432_60915300286.jpg" bgimgfield="li_img__1553583931885" style="background-image: url('https://static.tildacdn.com/tild6630-3832-4630-b732-393139323138/52387432_60915300286.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/52387432_60915300286.jpg" bgimgfield="li_img__1553583931885" style="background-image: url('img/home/52387432_60915300286.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -3794,7 +3782,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild3232-6264-4566-a235-636634333063/3041.jpg" bgimgfield="li_img__1476964743259" style="background-image: url('https://static.tildacdn.com/tild3232-6264-4566-a235-636634333063/3041.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/3041.jpg" bgimgfield="li_img__1476964743259" style="background-image: url('img/home/3041.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -3817,7 +3805,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild3735-3136-4339-b233-613662333933/IMG_20181218_140744_.jpg" bgimgfield="li_img__1553583994578" style="background-image: url('https://static.tildacdn.com/tild3735-3136-4339-b233-613662333933/IMG_20181218_140744_.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/IMG_20181218_140744_.jpg" bgimgfield="li_img__1553583994578" style="background-image: url('img/home/IMG_20181218_140744_.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -3840,7 +3828,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild3736-3031-4139-a561-336334656337/46191354_20514434371.jpg" bgimgfield="li_img__1553584032999" style="background-image: url('https://static.tildacdn.com/tild3736-3031-4139-a561-336334656337/46191354_20514434371.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/52357806_23006198468.jpg" bgimgfield="li_img__1553584032999" style="background-image: url('img/home/52357806_23006198468.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -3863,7 +3851,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild3061-6434-4361-a437-363737326237/52357806_23006198468.jpg" bgimgfield="li_img__1553584228350" style="background-image: url('https://static.tildacdn.com/tild3061-6434-4361-a437-363737326237/52357806_23006198468.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/46191354_20514434371.jpg" bgimgfield="li_img__1553584228350" style="background-image: url('img/home/46191354_20514434371.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -3886,7 +3874,7 @@
                                             <div class="t728__wrapper" style="background-color: #ffffff;">
 
                                                 <div class="t728__imgcell" style="">
-                                                    <div class="t728__bgimg t-bgimg" data-original="https://static.tildacdn.com/tild6664-6134-4864-a238-363732643133/1041-2.jpg" bgimgfield="li_img__1553584126455" style="background-image: url('https://static.tildacdn.com/tild6664-6134-4864-a238-363732643133/1041-2.jpg');">
+                                                    <div class="t728__bgimg t-bgimg" data-original="img/home/1041-2.jpg" bgimgfield="li_img__1553584126455" style="background-image: url('img/home/1041-2.jpg');">
                                                     </div>
                                                 </div>
                                                 <div class="t728__textcell">
@@ -4629,7 +4617,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3261-6633-4230-b538-323839316237/1.svg' imgfield='tn_img_1553281573260'>
+                            <img class='tn-atom__img' src='/img/icons/1.svg' imgfield='tn_img_1553281573260'>
                         </div>
 
 
@@ -4653,7 +4641,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6561-6630-4533-b039-313962396331/website.svg' imgfield='tn_img_1553281735850'>
+                            <img class='tn-atom__img' src='/img/icons/website.svg' imgfield='tn_img_1553281735850'>
                         </div>
 
 
@@ -4717,7 +4705,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6438-3237-4234-a334-343061356333/2.svg' imgfield='tn_img_1553281830878'>
+                            <img class='tn-atom__img' src='/img/icons/2.svg' imgfield='tn_img_1553281830878'>
                         </div>
 
 
@@ -4741,7 +4729,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6562-6433-4365-a631-383562616439/support.svg' imgfield='tn_img_1553281830896'>
+                            <img class='tn-atom__img' src='/img/icons/support.svg' imgfield='tn_img_1553281830896'>
                         </div>
 
 
@@ -4805,7 +4793,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6662-3665-4230-a363-303736636637/3.svg' imgfield='tn_img_1553281838940'>
+                            <img class='tn-atom__img' src='/img/icons/3.svg' imgfield='tn_img_1553281838940'>
                         </div>
 
 
@@ -4829,7 +4817,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3636-3061-4564-a533-663163633564/package.svg' imgfield='tn_img_1553281838956'>
+                            <img class='tn-atom__img' src='/img/icons/package.svg' imgfield='tn_img_1553281838956'>
                         </div>
 
 
@@ -5092,7 +5080,7 @@
 
 
 
-                        <div class='tn-atom' style="background-image:url('https://static.tildacdn.com/tild6434-3935-4735-a462-363365666230/map-2.jpg');">
+                        <div class='tn-atom' style="background-image:url('img/home/map-2.jpg');">
                         </div>
 
 
@@ -5156,7 +5144,7 @@
 
 
                         <a class='tn-atom' href="https://www.facebook.com/turniki.ua/" target="_blank">
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3036-3865-4433-b262-643537646634/facebook-logo-button.svg' imgfield='tn_img_1553509969060'>
+                            <img class='tn-atom__img' src='/img/icons/facebook-logo-button.svg' imgfield='tn_img_1553509969060'>
                         </a>
 
 
@@ -5200,7 +5188,7 @@
 
 
                         <a class='tn-atom' href="https://www.instagram.com/turniki.ukr/" target="_blank">
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild3961-6335-4263-b738-623530386366/instagram.svg' imgfield='tn_img_1553510029931'>
+                            <img class='tn-atom__img' src='/img/icons/instagram.svg' imgfield='tn_img_1553510029931'>
                         </a>
 
 
@@ -5512,7 +5500,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6466-6636-4938-b830-303362626465/-2.png' imgfield='tn_img_1553287099800'>
+                            <img class='tn-atom__img' src='/img/home/-2.png' imgfield='tn_img_1553287099800'>
                         </div>
 
 
@@ -5559,7 +5547,7 @@
 
 
                         <div class='tn-atom'>
-                            <img class='tn-atom__img' src='https://static.tildacdn.com/tild6465-3635-4639-a135-663462323436/5c59995b2b7831000112.png' imgfield='tn_img_1555054208888'>
+                            <img class='tn-atom__img' src='/img/home/5c59995b2b7831000112.png' imgfield='tn_img_1555054208888'>
                         </div>
 
 
@@ -5606,7 +5594,7 @@
                         </div>
                     </div>
                     <div class="t-popup__container t-width t-width_6">
-                        <img class="t702__img t-img" src="https://static.tildacdn.com/tild6161-3232-4631-a630-613066663037/ScreenShot20151222at180157.png" imgfield="img">
+                        <img class="t702__img t-img" src="/img/home/ScreenShot20151222at180157.png" imgfield="img">
                         <div class="t702__wrapper">
                             <div class="t702__text-wrapper t-align_center">
                                 <div class="t702__title t-title t-title_xxs" style="">Офомите заявку</div>
@@ -5791,7 +5779,7 @@
                 <div class="t706__carticon" style="">
                     <div class="t706__carticon-text t-name t-name_xs">Click to order</div>
                     <div class="t706__carticon-wrapper">
-                        <!--<div class="t706__carticon-imgwrap"><img class="t706__carticon-img" src="https://static.tildacdn.com/lib/linea/930cac0f-758b-b7ee-1eb0-b18fc6e10893/ecommerce_bag.svg"></div>-->
+
                         <div class="t706__carticon-imgwrap">
                             <svg class="t706__carticon-img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
                                 <descr style="color:#bebebe;">Cart</descr>
@@ -6142,7 +6130,7 @@
                         </div>
                     </div>
                     <div class="t-popup__container t-width t-width_6" style="background-color: #fbfbf9;">
-                        <img class="t390__img t-img" src="https://static.tildacdn.com/tild6237-6336-4464-b135-356166336462/Finish_7.jpg" imgfield="img">
+                        <img class="t390__img t-img" src="/img/home/Finish_7.jpg" imgfield="img">
                         <div class="t390__wrapper t-align_center">
                             <div class="t390__uptitle t-uptitle t-uptitle_xs" style="">СТОП! Не уходите с пустыми руками!</div>
                             <div class="t390__title t-heading t-heading_lg" style=""><br />Мы подготовили для Вас подарок<br /></div>
