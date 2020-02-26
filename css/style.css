@@ -1,0 +1,154 @@
+@import url(fonts/Geometria/stylesheet.css);
+@import url(tilda-inline.css);
+
+.owl-dots .owl-dot span{
+  display: block;
+  width: 12px;
+  height: 12px;
+  background: #fff;
+  border-radius: 50%
+}
+
+.owl-dots .owl-dot{
+  margin: 0 10px;
+}
+
+.owl-dots{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.owl-dots .owl-dot.active span{
+  background: #0078ff;
+}
+
+.owl-nav{
+  position: absolute;
+  top: 50%;
+  left: 30px;
+  right: 30px;
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+
+  -webkit-transform: translateY(-50px);
+
+  transform: translateY(-50px);
+}
+
+.owl-prev svg, .owl-next svg {
+  width: 13px;
+  height: auto;
+}
+
+.owl-prev span, .owl-next span{
+  width: 40px;
+  height: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+.owl-prev span:hover, .owl-next span:hover{
+  background: #fff;
+  border-radius: 50%;
+}
+
+
+.owl-prev{
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg)
+}
+
+.t-btn{
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center
+}
+
+.t-store__card__btns-wrapper{
+  position: relative !important;
+}
+
+.js-store-prod-name.js-product-name.t-store__card__title.t-name.t-name_md{
+	color: #333333;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Geometria';
+}
+
+.js-store-prod-descr.t-store__card__descr.t-descr.t-descr_xxs{
+	color: #333333;
+	font-weight: 400;
+	font-family: 'Geometria';
+}
+
+.t-store__card__price.t-store__card__price-item.t-name.t-name_xs {
+    color: #e31c1c;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.t-gray-container .js-store-prod-btn.t-store__card__btn.t-btn.t-btn_sm{
+    color: #000000 !important;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+
+.js-store-prod-btn.t-store__card__btn.t-btn.t-btn_sm{
+    color: #000000 !important;
+    background-color: #ffea00;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    font-family: Geometria;
+    font-weight: 400;
+}
+
+.js-store-prod-btn2.t-store__card__btn.t-store__card__btn_second.t-btn.t-btn_sm {
+    color: #ffc23d !important;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    font-family: Geometria;
+    font-weight: 400;
+}
+
+.t-store__card__imgwrapper {
+    padding-bottom:91.66666666666667%;
+}
+
+.t-store__card__mark {
+    color: #ffffff;
+    background-color: #e31c1c;
+}
+
+.t-store__card__wrap_all.t-store__card__wrap_pad-sm {
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.20);
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.20);
+}
+
+.t-mrb-40{
+  margin-bottom: 40px;
+}
+
+.t-gray-container > .t-store__card > .t-store__card__wrap_all{
+  background-color: #f0f4f7 ;
+}
