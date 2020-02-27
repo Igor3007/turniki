@@ -5663,36 +5663,6 @@
 
 
 
-            <script type="text/javascript">
-                $(document).ready(function() {
-                    t724_init('94484326');
-                });
-            </script>
-
-
-        </div>
-
-
-        <div id="rec94911405" class="r t-rec" style=" " data-record-type="270">
-            <div class="t270"></div>
-            <script>
-                $(document).ready(function() {
-                    var hash = window.location.hash;
-
-                    setTimeout(function() {
-                        var curPath = window.location.pathname;
-                        var curFullPath = window.location.origin + curPath;
-                        $('a[href^="#"]:not([href="#"],.carousel-control,.t-carousel__control,[href^="#price"],[href^="#popup"],[href^="#prodpopup"],[href^="#order"],a[href^="#!"]),a[href^="' + curPath + '#"],a[href^="' + curFullPath + '#"]').click(function(e) {
-                            e.preventDefault();
-                            var hash = this.hash;
-                            if (hash !== "") {
-                                t270_scroll(hash, -3);
-                            }
-                        });
-
-                    }, 500);
-                });
-            </script>
 
         </div>
 
@@ -5706,48 +5676,7 @@
 
 
 
-    <script type="text/javascript">
-        (function(i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function() {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-        ga('create', 'UA-135127804-1', 'auto');
 
-
-
-        ga('send', 'pageview');
-        window.mainTracker = 'user';
-
-        if (!window.mainTracker) {
-            window.mainTracker = 'tilda';
-        }
-
-        window.tildastatscroll = 'yes';
-        (function(d, w, k, o, g) {
-            var n = d.getElementsByTagName(o)[0],
-                s = d.createElement(o),
-                f = function() {
-                    n.parentNode.insertBefore(s, n);
-                };
-            s.type = "text/javascript";
-            s.async = true;
-            s.key = k;
-            s.id = "tildastatscript";
-            s.src = g;
-            if (w.opera == "[object Opera]") {
-                d.addEventListener("DOMContentLoaded", f, false);
-            } else {
-                f();
-            }
-        })(document, window, '03c142447e0ec2720270f3847c27b1b1', 'script', 'https://stat.tildacdn.com/js/tildastat-0.2.min.js');
-    </script>
 
 </body>
 

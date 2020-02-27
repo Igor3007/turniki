@@ -26,6 +26,7 @@ function t142_checkSize(recid){
     }
   }
 }
+
 function t190_scrollToTop(){
     $('html, body').animate({scrollTop: 0}, 700);
 }

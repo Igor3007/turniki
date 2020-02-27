@@ -226,3 +226,20 @@
   width: 60px;
   height: 60px;
 }
+
+.t-slds__main .item-slide{
+  padding-top: 90%;
+  position: relative;
+}
+
+.t-slds__main .item-slide img{
+ position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  width: auto;
+  max-width: 100%;
+  margin: auto
+}
