@@ -51,7 +51,9 @@
     <script type="text/javascript" src="/js/js_rentafont_webfonts.js"></script>
 
     <script type="text/javascript" >
-     //owl slider good init
+    $(document).ready(function(){
+
+         //owl slider good init
             var sync1 = $(".good-slider.owl-carousel");
             var sync2 = $(".good-slider_thumb");
             var slidesPerPage = 4; //globaly define number of elements per page
@@ -131,6 +133,9 @@
                 var number = $(this).index();
                 sync1.data('owl.carousel').to(number, 300, true);
             });
+
+    })//ready
+
 
     </script>
 

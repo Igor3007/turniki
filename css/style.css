@@ -227,6 +227,7 @@
   height: 60px;
 }
 
+
 .t-slds__main .item-slide{
   padding-top: 90%;
   position: relative;
@@ -242,4 +243,22 @@
   width: auto;
   max-width: 100%;
   margin: auto
+}
+
+.t706__cartwin-content.fancybox-content {
+	display: inline-block;
+	margin-bottom: 6px;
+	max-width: 600px;
+}
+
+.t706__cartwin-content {
+	margin: 65px auto;
+	width: 100%;
+	max-width: 560px;
+	min-height: 300px;
+	background-color: rgba(255,255,255,1);
+	padding: 40px;
+	box-sizing: border-box;
+	overflow: auto;
+  display: none;
 }

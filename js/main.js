@@ -30,5 +30,78 @@ $(document).ready(function($) {
                 e.preventDefault();
             });
 
+            //open form
+
+            $(document).on('click', '.js-store-prod-btn2', function(e){
+
+                const $cardContainer = $(this).parents('.js-product');
+
+                //price
+                $('.cartwin-totalamount').text( $cardContainer.find('.t-store__card__price').text() )
+
+                //title
+                $('.t706__product-title').text( $cardContainer.find('.js-store-prod-name').text() )
+
+                //image
+                var imagePath = $cardContainer.find('.js-product-img').attr('data-original');
+                $('.t706__product-imgdiv').css({
+                    'background-image': 'url(' + imagePath + ')'
+                })
+
+                //close active fancybox
+                $.fancybox.close();
+
+                //open popup
+                $.fancybox.open({
+                    src  : '#form-shop',
+                    type : 'inline'
+                });
+
+                e.preventDefault()
+            })
+
+
+            // open card in popup
+            $('.js-store-prod-btn').on('click', function(e){
+
+                $.fancybox.open({
+                    src  : $(this).attr('href'),
+                    type : 'ajax'
+                });
+
+                e.preventDefault()
+
+            })
+
+            // open form-shop from popup
+            $(document).on('click', '.t-store__prod-popup__btn', function(e){
+
+                const $cardContainer = $(this).parents('.js-product');
+
+                //price
+                $('.cartwin-totalamount').text( $cardContainer.find('.js-product-price').text() )
+
+                //title
+                $('.t706__product-title').text( $cardContainer.find('.t-store__prod-popup__name').text() )
+
+                //image
+                var imagePath = $cardContainer.find('.t-slds__main .owl-item.active img').attr('src');
+                $('.t706__product-imgdiv').css({
+                    'background-image': 'url(' + imagePath + ')'
+                })
+
+                //close active fancybox
+               // $.fancybox.close();
+
+                //open popup
+                $.fancybox.open({
+                    src  : '#form-shop',
+                    type : 'inline'
+                });
+
+                e.preventDefault()
+
+            })
+
 
         }); //ready
