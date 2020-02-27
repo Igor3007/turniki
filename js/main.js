@@ -21,12 +21,14 @@ $(document).ready(function($) {
             })
 
              // плавный скролл
-            var $page = $('html, body');
-            $('a[href*="#"]').click(function() {
-                $page.animate({
-                    scrollTop: $($.attr(this, 'href')).offset().top
-                }, 400);
-                return false;
+            $('a[href^="#"]').on("click", function(e){
+                var elem = $(this);
+                var anchor = elem.attr('href').replace('#', '');
+                $('html, body').stop().animate({
+                    scrollTop: $('[name='+anchor+']').offset().top
+                }, 750);
+                e.preventDefault();
             });
+
 
         }); //ready
